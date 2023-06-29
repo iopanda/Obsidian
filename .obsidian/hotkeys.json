@@ -1,0 +1,26 @@
+{
+  "terminal:open-terminal.integrated.root": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "`"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Backspace"
+    }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ]
+}
