@@ -14,7 +14,6 @@
   "remotely-save",
   "obsidian-tasks-plugin",
   "templater-obsidian",
-  "terminal",
   "obsidian-weread-plugin",
   "editing-toolbar",
   "obsidian-excalidraw-plugin",
@@ -24,5 +23,6 @@
   "obsidian-dictionary-plugin",
   "surfing",
   "obsidian-languagetool-plugin",
-  "notion-like-tables"
+  "notion-like-tables",
+  "terminal"
 ]

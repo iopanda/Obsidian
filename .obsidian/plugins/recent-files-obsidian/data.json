@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "饿汉式单例",
+      "path": "00.Inbox/饿汉式单例.md"
+    },
+    {
       "basename": "单例模式",
       "path": "00.Inbox/单例模式.md"
     },
     {
       "basename": "创建型模式",
       "path": "00.Inbox/创建型模式.md"
+    },
+    {
+      "basename": "依赖倒置原则",
+      "path": "00.Inbox/依赖倒置原则.md"
+    },
+    {
+      "basename": "接口隔离原则",
+      "path": "00.Inbox/接口隔离原则.md"
     },
     {
       "basename": "Java 设计模式",
@@ -17,28 +29,20 @@
       "path": "00.Inbox/面向对象五个基本原则（SOLID）.md"
     },
     {
-      "basename": "罗伯特·C·马丁 (Robert C. Martin)",
-      "path": "00.Inbox/罗伯特·C·马丁 (Robert C. Martin).md"
-    },
-    {
       "basename": "里氏替换原则",
       "path": "00.Inbox/里氏替换原则.md"
-    },
-    {
-      "basename": "接口隔离原则",
-      "path": "00.Inbox/接口隔离原则.md"
-    },
-    {
-      "basename": "开闭原则",
-      "path": "00.Inbox/开闭原则.md"
     },
     {
       "basename": "单一职责原则",
       "path": "00.Inbox/单一职责原则.md"
     },
     {
-      "basename": "依赖倒置原则",
-      "path": "00.Inbox/依赖倒置原则.md"
+      "basename": "罗伯特·C·马丁 (Robert C. Martin)",
+      "path": "00.Inbox/罗伯特·C·马丁 (Robert C. Martin).md"
+    },
+    {
+      "basename": "开闭原则",
+      "path": "00.Inbox/开闭原则.md"
     },
     {
       "basename": "AWS Lambda",
