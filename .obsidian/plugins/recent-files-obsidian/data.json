@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux 基础",
+      "path": "03.Engineering/3.3 DevOps/3.3.1 Linux/note/Linux 基础.md"
+    },
+    {
+      "basename": "Linux 目录配置",
+      "path": "00.Inbox/Linux 目录配置.md"
+    },
+    {
+      "basename": "Linux 内核",
+      "path": "00.Inbox/Linux 内核.md"
+    },
+    {
+      "basename": "类UNIX操作系统",
+      "path": "00.Inbox/类UNIX操作系统.md"
+    },
+    {
+      "basename": "内核",
+      "path": "00.Inbox/内核.md"
+    },
+    {
+      "basename": "POSIX",
+      "path": "00.Inbox/POSIX.md"
+    },
+    {
       "basename": "单例模式",
       "path": "00.Inbox/单例模式.md"
     },
@@ -50,7 +74,7 @@
     },
     {
       "basename": "产品经理认证（NPDP）知识体系指南",
-      "path": "03.Engineering/3.5 Product Management/3.5.1 NPDP/产品经理认证（NPDP）知识体系指南.md"
+      "path": "05.Management/5.2 Product Management/3.5.1 NPDP/产品经理认证（NPDP）知识体系指南.md"
     },
     {
       "basename": "SWOT 分析",
@@ -62,7 +86,7 @@
     },
     {
       "basename": "产品经理认证知识体系指南2版本",
-      "path": "03.Engineering/3.5 Product Management/3.5.1 NPDP/pdf/产品经理认证知识体系指南2版本.pdf"
+      "path": "05.Management/5.2 Product Management/3.5.1 NPDP/pdf/产品经理认证知识体系指南2版本.pdf"
     },
     {
       "basename": "商业模式画布（Business Model Canvas，BMC）",
@@ -70,11 +94,11 @@
     },
     {
       "basename": "PDMACPAS_Methods and Future Research Directions 2016",
-      "path": "03.Engineering/3.5 Product Management/3.5.1 NPDP/pdf/PDMACPAS_Methods and Future Research Directions 2016.pdf"
+      "path": "05.Management/5.2 Product Management/3.5.1 NPDP/pdf/PDMACPAS_Methods and Future Research Directions 2016.pdf"
     },
     {
       "basename": "战略",
-      "path": "03.Engineering/3.5 Product Management/3.5.1 NPDP/concepts/战略.md"
+      "path": "05.Management/5.2 Product Management/3.5.1 NPDP/concepts/战略.md"
     },
     {
       "basename": "德尔菲技术（Delphi Technique）",
@@ -175,18 +199,6 @@
     {
       "basename": "01. Introduction",
       "path": "03.Engineering/3.1 Architect/3.1.1 TOGAF/notes/01. Introduction.md"
-    },
-    {
-      "basename": "v2-b68702336449092598e869eadb1087bd_720w",
-      "path": "01.Attachments/v2-b68702336449092598e869eadb1087bd_720w.webp"
-    },
-    {
-      "basename": "v2-bec73f1308430c11cd6a891455ed4f79_720w",
-      "path": "01.Attachments/v2-bec73f1308430c11cd6a891455ed4f79_720w.webp"
-    },
-    {
-      "basename": "togaf-standard",
-      "path": "03.Engineering/3.1 Architect/3.1.1 TOGAF/pdf/togaf-standard.pdf"
     }
   ],
   "omittedPaths": [],
