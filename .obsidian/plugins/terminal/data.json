@@ -6,9 +6,10 @@
   "focusOnNewInstance": true,
   "hideStatusBar": "focused",
   "language": "",
-  "lastReadChangelogVersion": "3.7.0",
+  "lastReadChangelogVersion": "3.9.2",
   "newInstanceBehavior": "newHorizontalSplit",
   "noticeTimeout": 5,
+  "openChangelogOnUpdate": true,
   "pinNewInstance": true,
   "preferredRenderer": "webgl",
   "profiles": {
@@ -25,6 +26,7 @@
         "SIGINT",
         "SIGTERM"
       ],
+      "terminalOptions": {},
       "type": "external"
     },
     "darwinIntegratedDefault": {
@@ -41,6 +43,7 @@
         "SIGINT",
         "SIGTERM"
       ],
+      "terminalOptions": {},
       "type": "integrated",
       "useWin32Conhost": true
     },
@@ -52,6 +55,7 @@
         "SIGINT",
         "SIGTERM"
       ],
+      "terminalOptions": {},
       "type": "developerConsole"
     },
     "linuxExternalDefault": {
@@ -67,6 +71,7 @@
         "SIGINT",
         "SIGTERM"
       ],
+      "terminalOptions": {},
       "type": "external"
     },
     "linuxIntegratedDefault": {
@@ -83,6 +88,7 @@
         "SIGINT",
         "SIGTERM"
       ],
+      "terminalOptions": {},
       "type": "integrated",
       "useWin32Conhost": true
     },
@@ -99,6 +105,7 @@
         "SIGINT",
         "SIGTERM"
       ],
+      "terminalOptions": {},
       "type": "external"
     },
     "win32IntegratedDefault": {
@@ -115,6 +122,7 @@
         "SIGINT",
         "SIGTERM"
       ],
+      "terminalOptions": {},
       "type": "integrated",
       "useWin32Conhost": true
     }
