@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "ArchiMate 3.2 Spec",
+      "path": "03.Engineering/3.1 Architect/3.1.4 ArchiMate/pdfs/ArchiMate 3.2 Spec.pdf"
+    },
+    {
+      "basename": "The TOGAF® Standard, Version 9.2",
+      "path": "03.Engineering/3.1 Architect/3.1.1 TOGAF/pdf/The TOGAF® Standard, Version 9.2.pdf"
+    },
+    {
+      "basename": "1. 简介：ArchiMate® 3.1 规范",
+      "path": "03.Engineering/3.1 Architect/3.1.4 ArchiMate/pdfs/1. 简介：ArchiMate® 3.1 规范.pdf"
+    },
+    {
       "basename": "Pasted image 20230506152447",
       "path": "01.Attachments/Pasted image 20230506152447.png"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "瀑布图",
       "path": "03.Engineering/3.4 Data Analysis/3.4.3 Data Visualization/Charts/瀑布图.md"
-    },
-    {
-      "basename": "堆积条形图",
-      "path": "03.Engineering/3.4 Data Analysis/3.4.3 Data Visualization/Charts/堆积条形图.md"
-    },
-    {
-      "basename": "有用的链接",
-      "path": "03.Engineering/3.4 Data Analysis/3.4.2 Power BI/resources/有用的链接.md"
-    },
-    {
-      "basename": "切片器",
-      "path": "03.Engineering/3.4 Data Analysis/3.4.3 Data Visualization/Charts/切片器.md"
     }
   ],
   "omittedPaths": [],
