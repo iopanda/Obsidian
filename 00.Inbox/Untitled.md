@@ -1,0 +1,4 @@
+
+```dataview
+select file.name
+```

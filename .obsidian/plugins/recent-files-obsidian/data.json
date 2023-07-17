@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasted image 20230506152447",
+      "path": "01.Attachments/Pasted image 20230506152447.png"
+    },
+    {
+      "basename": "Pasted image 20230506135609",
+      "path": "01.Attachments/Pasted image 20230506135609.png"
+    },
+    {
+      "basename": "Pasted image 20230506152522",
+      "path": "01.Attachments/Pasted image 20230506152522.png"
+    },
+    {
+      "basename": "Zettelkasten 方法",
+      "path": "98.Misc/Zettelkasten方法/Zettelkasten 方法.md"
+    },
+    {
+      "basename": "AWS Certified Solutions Architect Professional",
+      "path": "03.Engineering/3.1 Architect/3.1.2 AWS Solution Architect/notes/AWS Certified Solutions Architect Professional.md"
+    },
+    {
+      "basename": "IAM",
+      "path": "00.Inbox/IAM.md"
+    },
+    {
+      "basename": "POSIX",
+      "path": "00.Inbox/POSIX.md"
+    },
+    {
+      "basename": "AWS Lambda",
+      "path": "00.Inbox/AWS Lambda.md"
+    },
+    {
+      "basename": "PBI技术实战之轻松玩转数据可视化",
+      "path": "03.Engineering/3.4 Data Analysis/3.4.4 安永Power BI拓展课程/notes/PBI技术实战之轻松玩转数据可视化.md"
+    },
+    {
+      "basename": "面向对象五个基本原则（SOLID）",
+      "path": "00.Inbox/面向对象五个基本原则（SOLID）.md"
+    },
+    {
+      "basename": "饿汉式单例",
+      "path": "00.Inbox/饿汉式单例.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "00.Inbox/Untitled.md"
+    },
+    {
+      "basename": "依赖倒置原则",
+      "path": "00.Inbox/依赖倒置原则.md"
+    },
+    {
+      "basename": "内核",
+      "path": "00.Inbox/内核.md"
+    },
+    {
+      "basename": "创建型模式",
+      "path": "00.Inbox/创建型模式.md"
+    },
+    {
+      "basename": "单一职责原则",
+      "path": "00.Inbox/单一职责原则.md"
+    },
+    {
       "basename": "Linux 基础",
       "path": "03.Engineering/3.3 DevOps/3.3.1 Linux/note/Linux 基础.md"
     },
@@ -17,28 +81,12 @@
       "path": "00.Inbox/类UNIX操作系统.md"
     },
     {
-      "basename": "内核",
-      "path": "00.Inbox/内核.md"
-    },
-    {
-      "basename": "POSIX",
-      "path": "00.Inbox/POSIX.md"
-    },
-    {
       "basename": "单例模式",
       "path": "00.Inbox/单例模式.md"
     },
     {
-      "basename": "创建型模式",
-      "path": "00.Inbox/创建型模式.md"
-    },
-    {
       "basename": "Java 设计模式",
       "path": "03.Engineering/3.2 Development/3.2.2 设计模式/Java 设计模式.md"
-    },
-    {
-      "basename": "面向对象五个基本原则（SOLID）",
-      "path": "00.Inbox/面向对象五个基本原则（SOLID）.md"
     },
     {
       "basename": "罗伯特·C·马丁 (Robert C. Martin)",
@@ -57,18 +105,6 @@
       "path": "00.Inbox/开闭原则.md"
     },
     {
-      "basename": "单一职责原则",
-      "path": "00.Inbox/单一职责原则.md"
-    },
-    {
-      "basename": "依赖倒置原则",
-      "path": "00.Inbox/依赖倒置原则.md"
-    },
-    {
-      "basename": "AWS Lambda",
-      "path": "00.Inbox/AWS Lambda.md"
-    },
-    {
       "basename": "PESTLE 分析",
       "path": "97.Concepts/PESTLE 分析.md"
     },
@@ -79,10 +115,6 @@
     {
       "basename": "SWOT 分析",
       "path": "97.Concepts/SWOT 分析.md"
-    },
-    {
-      "basename": "AWS Certified Solutions Architect Professional",
-      "path": "03.Engineering/3.1 Architect/3.1.2 AWS Solution Architect/notes/AWS Certified Solutions Architect Professional.md"
     },
     {
       "basename": "产品经理认证知识体系指南2版本",
@@ -107,10 +139,6 @@
     {
       "basename": "使用 AWS Lambda 和 Claudia.js",
       "path": "03.Engineering/3.2 Development/3.2.1 AWS Lambda/3.2.1.1 Node.js/使用 AWS Lambda 和 Claudia.js.md"
-    },
-    {
-      "basename": "PBI技术实战之轻松玩转数据可视化",
-      "path": "03.Engineering/3.4 Data Analysis/3.4.4 安永Power BI拓展课程/notes/PBI技术实战之轻松玩转数据可视化.md"
     },
     {
       "basename": "转置表 (Transpose)",
@@ -139,10 +167,6 @@
     {
       "basename": "Identity Federation & Cognito",
       "path": "03.Engineering/3.1 Architect/3.1.2 AWS Solution Architect/concepts/Identity Federation & Cognito.md"
-    },
-    {
-      "basename": "IAM",
-      "path": "00.Inbox/IAM.md"
     },
     {
       "basename": "Welcome",
@@ -175,30 +199,6 @@
     {
       "basename": "切片器",
       "path": "03.Engineering/3.4 Data Analysis/3.4.3 Data Visualization/Charts/切片器.md"
-    },
-    {
-      "basename": "圆环图",
-      "path": "03.Engineering/3.4 Data Analysis/3.4.3 Data Visualization/Charts/圆环图.md"
-    },
-    {
-      "basename": "AWS-Certified-Solutions-Architect-Professional_Exam-Guide",
-      "path": "03.Engineering/3.1 Architect/3.1.2 AWS Solution Architect/pdf/AWS-Certified-Solutions-Architect-Professional_Exam-Guide.pdf"
-    },
-    {
-      "basename": "Design",
-      "path": "98.Misc/DBCtl设计与实现/Design.md"
-    },
-    {
-      "basename": "Zettelkasten 方法",
-      "path": "98.Misc/Zettelkasten方法/Zettelkasten 方法.md"
-    },
-    {
-      "basename": "Zettel Note",
-      "path": "99.Templates/Zettel Note.md"
-    },
-    {
-      "basename": "01. Introduction",
-      "path": "03.Engineering/3.1 Architect/3.1.1 TOGAF/notes/01. Introduction.md"
     }
   ],
   "omittedPaths": [],

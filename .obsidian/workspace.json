@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "5a4887a1ba74d7ed",
-        "type": "tabs",
+        "id": "a21bacb44082e191",
+        "type": "split",
         "children": [
           {
-            "id": "52f2f57b0256eb16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03.Engineering/3.3 DevOps/3.3.1 Linux/note/Linux 基础.md",
-                "mode": "source",
-                "source": false
+            "id": "490e6d1b2c1eb57b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b030b7ba82affded",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "01.Attachments/Pasted image 20230506152447.png"
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "b495bfc551a33ff9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "21006a86da7477bd",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/xiaoyu.a.sun/Documents/github/github.com/Obsidian",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/zsh",
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {},
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 112,
+                        "data": "\r\n\r\n(base) \u001b[32;1m➜  \u001b[36mObsidian\u001b[0m \u001b[34;1mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[0m \r\n(base) \u001b[32;1m➜  \u001b[36mObsidian\u001b[0m \u001b[34;1mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[0m \r\n(base) \u001b[32;1m➜  \u001b[36mObsidian\u001b[0m \u001b[34;1mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[0m \r\n(base) \u001b[32;1m➜  \u001b[36mObsidian\u001b[0m \u001b[34;1mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[0m \r\n(base) \u001b[32;1m➜  \u001b[36mObsidian\u001b[0m \u001b[34;1mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[0m git status\r\nOn branch master\r\nYour branch is up to date with 'origin/master'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/graph.json\r\n\u001b[8Cmodified:   .obsidian/plugins/recent-files-obsidian/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   .obsidian/workspaces.json\r\n\u001b[8Cmodified:   \"00.Inbox/Linux \\347\\233\\256\\345\\275\\225\\351\\205\\215\\347\\275\\256.md\"\r\n\u001b[8Cmodified:   00.Inbox/POSIX.md\r\n\u001b[8Cmodified:   \"00.Inbox/\\351\\235\\242\\345\\220\\221\\345\\257\\271\\350\\261\\241\\344\\272\\224\\344\\270\\252\\345\\237\\272\\346\\234\\254\\345\\216\\237\\345\\210\\231\\357\\274\\210SOLID\\357\\274\\211.md\"\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m\".trash/\\343\\200\\212\\346\\225\\217\\346\\215\\267\\350\\275\\257\\344\\273\\266\\345\\274\\200\\345\\217\\221\\357\\274\\232\\345\\216\\237\\345\\210\\231\\343\\200\\201\\346\\250\\241\\345\\274\\217\\344\\270\\216\\345\\256\\236\\350\\267\\265\\343\\200\\213.md\"\r\n\u001b[8C00.Inbox/Untitled.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n(base) \u001b[32;1m➜  \u001b[36mObsidian\u001b[0m \u001b[34;1mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[0m code .\r\n(base) \u001b[32;1m➜  \u001b[36mObsidian\u001b[0m \u001b[34;1mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[0m ",
+                        "rows": 18
+                      }
+                    }
+                  },
+                  "pinned": true
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -93,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 334.5
   },
   "right": {
     "id": "12999989d82db80b",
@@ -136,7 +185,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Engineering/3.3 DevOps/3.3.1 Linux/note/Linux 基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +201,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Engineering/3.3 DevOps/3.3.1 Linux/note/Linux 基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,9 +222,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03.Engineering/3.3 DevOps/3.3.1 Linux/note/Linux 基础.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,6 +251,8 @@
   "left-ribbon": {
     "hiddenItems": {
       "notion-like-tables:Create Notion-Like table": false,
+      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -213,63 +260,62 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "publish:Publish changes...": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-to-notion:Share to notion": false,
       "templater-obsidian:Templater": false,
-      "remotely-save:Remotely Save": false,
+      "terminal:Open terminal": false,
       "obsidian-weread-plugin:Weread": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "52f2f57b0256eb16",
+  "active": "21006a86da7477bd",
   "lastOpenFiles": [
+    "01.Attachments/Pasted image 20230506152447.png",
+    "01.Attachments/Pasted image 20230506135609.png",
+    "01.Attachments/Pasted image 20230506152522.png",
+    "98.Misc/Zettelkasten方法/Zettelkasten 方法.md",
+    "03.Engineering/3.1 Architect/3.1.2 AWS Solution Architect/notes/AWS Certified Solutions Architect Professional.md",
+    "00.Inbox/IAM.md",
+    "00.Inbox/POSIX.md",
+    "00.Inbox/AWS Lambda.md",
+    "03.Engineering/3.4 Data Analysis/3.4.4 安永Power BI拓展课程/notes/PBI技术实战之轻松玩转数据可视化.md",
+    "00.Inbox/《敏捷软件开发：原则、模式与实践》.md",
+    "00.Inbox/面向对象五个基本原则（SOLID）.md",
+    "00.Inbox/饿汉式单例.md",
+    "00.Inbox/Untitled.md",
+    "00.Inbox/依赖倒置原则.md",
+    "00.Inbox/内核.md",
+    "00.Inbox/创建型模式.md",
+    "00.Inbox/单一职责原则.md",
+    "03.Engineering/3.3 DevOps/3.3.1 Linux/note/Linux 基础.md",
+    "00.Inbox/Linux 目录配置.md",
     "03.Engineering/3.3 DevOps/3.3.1 Linux/pdfs/鸟哥的Linux私房菜-基础学习篇(第四版)书签PDF版.pdf",
     "03.Engineering/3.3 DevOps/3.3.1 Linux/pdfs",
-    "00.Inbox/Linux 目录配置.md",
-    "03.Engineering/3.3 DevOps/3.3.1 Linux/note/Linux 基础.md",
     "00.Inbox/Linux 内核.md",
     "00.Inbox/类UNIX操作系统.md",
-    "00.Inbox/内核.md",
-    "00.Inbox/POSIX.md",
     "00.Inbox/单例模式.md",
     "03.Engineering/3.3 DevOps/3.3.1 Linux/note",
     "03.Engineering/3.3 DevOps/3.3.1 Linux",
     "05.Management/5.1 Project Management",
     "05.Management",
-    "00.Inbox/创建型模式.md",
     "03.Engineering/3.2 Development/3.2.2 设计模式/Java 设计模式.md",
-    "00.Inbox/面向对象五个基本原则（SOLID）.md",
     "00.Inbox/罗伯特·C·马丁 (Robert C. Martin).md",
     "00.Inbox/3.md",
     "00.Inbox/里氏替换原则.md",
     "00.Inbox/接口隔离原则.md",
     "00.Inbox/开闭原则.md",
-    "00.Inbox/单一职责原则.md",
-    "00.Inbox/依赖倒置原则.md",
     "01.Attachments/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9KeUR6eVZ1aWFaSHFZM3hKblRId2JpYVVCNmliM216NHlrWWJ1SEVIS2NI.png",
     "03.Engineering/3.2 Development/3.2.2 设计模式/Java 设计模式",
-    "03.Engineering/3.1 Architect/3.1.2 AWS Solution Architect/notes/AWS Certified Solutions Architect Professional.md",
     "03.Engineering/3.2 Development/3.2.2 设计模式",
-    "97.Concepts/SWOT 分析.md",
-    "97.Concepts/德尔菲技术（Delphi Technique）.md",
-    "05.Management/5.2 Product Management/3.5.1 NPDP/concepts/战略.md",
     "05.Management/5.2 Product Management/3.5.1 NPDP/pdf/PDMACPAS_Methods and Future Research Directions 2016.pdf",
     "01.Attachments/Pasted image 20230619235611.png",
-    "97.Concepts/PESTLE 分析.md",
-    "97.Concepts/商业模式画布（Business Model Canvas，BMC）.md",
     "01.Attachments/Pasted image 20230619230634.png",
     "01.Attachments/PDMACPAS_Methods and Future Research Directions 2016.pdf",
     "01.Attachments/Pasted image 20230619230226.png",
     "01.Attachments/Pasted image 20230619232800.png",
     "01.Attachments/Pasted image 20230619233533.png",
     "01.Attachments/Pasted image 20230619233901.png",
-    "05.Management/5.2 Product Management/3.5.1 NPDP/concepts",
     "01.Attachments/Pasted image 20230619224754.png",
-    "00.Inbox/战略.md",
-    "05.Management/5.2 Product Management/3.5.1 NPDP/产品经理认证（NPDP）知识体系指南.md",
-    "01.Attachments/IMG_1370.jpg",
-    "01.Attachments/Pasted image 20230509210517.png",
     "Untitled.canvas"
   ]
 }
