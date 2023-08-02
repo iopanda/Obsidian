@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "使用 Amplify 拉取项目时发生错误的解决方法",
+      "path": "00.Inbox/使用 Amplify 拉取项目时发生错误的解决方法.md"
+    },
+    {
+      "basename": "在 Node.js 项目中使用 nuc 更新 package.json 依赖到最新版本",
+      "path": "00.Inbox/在 Node.js 项目中使用 nuc 更新 package.json 依赖到最新版本.md"
+    },
+    {
+      "basename": "单例模式",
+      "path": "00.Inbox/单例模式.md"
+    },
+    {
+      "basename": "创建型模式",
+      "path": "00.Inbox/创建型模式.md"
+    },
+    {
+      "basename": "Java 设计模式",
+      "path": "03.Engineering/3.2 Development/3.2.2 设计模式/Java 设计模式.md"
+    },
+    {
+      "basename": "面向对象五个基本原则（SOLID）",
+      "path": "00.Inbox/面向对象五个基本原则（SOLID）.md"
+    },
+    {
+      "basename": "ArchiMate 3.2 Spec",
+      "path": "03.Engineering/3.1 Architect/3.1.4 ArchiMate/pdfs/ArchiMate 3.2 Spec.pdf"
+    },
+    {
+      "basename": "The TOGAF® Standard, Version 9.2",
+      "path": "03.Engineering/3.1 Architect/3.1.1 TOGAF/pdf/The TOGAF® Standard, Version 9.2.pdf"
+    },
+    {
+      "basename": "1. 简介：ArchiMate® 3.1 规范",
+      "path": "03.Engineering/3.1 Architect/3.1.4 ArchiMate/pdfs/1. 简介：ArchiMate® 3.1 规范.pdf"
+    },
+    {
       "basename": "Pasted image 20230506152447",
       "path": "01.Attachments/Pasted image 20230506152447.png"
     },
@@ -37,16 +73,8 @@
       "path": "03.Engineering/3.4 Data Analysis/3.4.4 安永Power BI拓展课程/notes/PBI技术实战之轻松玩转数据可视化.md"
     },
     {
-      "basename": "面向对象五个基本原则（SOLID）",
-      "path": "00.Inbox/面向对象五个基本原则（SOLID）.md"
-    },
-    {
       "basename": "饿汉式单例",
       "path": "00.Inbox/饿汉式单例.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "00.Inbox/Untitled.md"
     },
     {
       "basename": "依赖倒置原则",
@@ -55,10 +83,6 @@
     {
       "basename": "内核",
       "path": "00.Inbox/内核.md"
-    },
-    {
-      "basename": "创建型模式",
-      "path": "00.Inbox/创建型模式.md"
     },
     {
       "basename": "单一职责原则",
@@ -79,14 +103,6 @@
     {
       "basename": "类UNIX操作系统",
       "path": "00.Inbox/类UNIX操作系统.md"
-    },
-    {
-      "basename": "单例模式",
-      "path": "00.Inbox/单例模式.md"
-    },
-    {
-      "basename": "Java 设计模式",
-      "path": "03.Engineering/3.2 Development/3.2.2 设计模式/Java 设计模式.md"
     },
     {
       "basename": "罗伯特·C·马丁 (Robert C. Martin)",
@@ -179,26 +195,6 @@
     {
       "basename": "旋风图",
       "path": "03.Engineering/3.4 Data Analysis/3.4.3 Data Visualization/Charts/旋风图.md"
-    },
-    {
-      "basename": "旭日图",
-      "path": "03.Engineering/3.4 Data Analysis/3.4.3 Data Visualization/Charts/旭日图.md"
-    },
-    {
-      "basename": "瀑布图",
-      "path": "03.Engineering/3.4 Data Analysis/3.4.3 Data Visualization/Charts/瀑布图.md"
-    },
-    {
-      "basename": "堆积条形图",
-      "path": "03.Engineering/3.4 Data Analysis/3.4.3 Data Visualization/Charts/堆积条形图.md"
-    },
-    {
-      "basename": "有用的链接",
-      "path": "03.Engineering/3.4 Data Analysis/3.4.2 Power BI/resources/有用的链接.md"
-    },
-    {
-      "basename": "切片器",
-      "path": "03.Engineering/3.4 Data Analysis/3.4.3 Data Visualization/Charts/切片器.md"
     }
   ],
   "omittedPaths": [],
