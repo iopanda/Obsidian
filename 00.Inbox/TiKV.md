@@ -14,9 +14,9 @@ TiKV 参考 Spanner 设计了 multi-raft-group 的副本机制。将数据按照
 
 ![TiKV 架构](https://download.pingcap.com/images/docs-cn/tikv-arch.png)
 
-## Region 与 RocksDB
+## Region 与 [[RocksDB]]
 
-## Region 与 Raft 协议
+## Region 与 [[Raft 协议]]
 
 ## 分布式事务
 
