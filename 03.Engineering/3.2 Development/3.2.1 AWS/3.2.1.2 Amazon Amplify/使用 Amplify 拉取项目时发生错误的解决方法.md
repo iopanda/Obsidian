@@ -5,7 +5,7 @@ tags: aws, amplify
 ---
 
 # 概要
----
+
 在使用 [[AWS Amplify]] 拉取项目时，有时会出现在浏览器点击同意登录后，CLI 并不能成功登录的情况。
 ![[Pasted image 20230728204313.png]]
 
@@ -13,7 +13,7 @@ tags: aws, amplify
 ![[Pasted image 20230728205026.png]]
 
 # 调查
----
+
 调查后发现，发生该问题的原因是由于浏览器回调时，CLI 拉起的服务报“500 Internal Server Error“错误。具体错误如下图所示：
 
 ![[Pasted image 20230728204339.png]]
@@ -40,6 +40,6 @@ export NODE_TLS_REJECT_UNAUTHORIZED=0
 
 
 # 引用
----
+
 
 

@@ -12,7 +12,7 @@ tags: Identity Federation & Cognito
 # Content
 ---
 
-## [[Amazon Cognito]]
+- [[Amazon Cognito]]
 
 
 

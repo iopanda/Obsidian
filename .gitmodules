@@ -1,0 +1,4 @@
+[submodule "96.Web/tidb-in-action"]
+	path = 96.Web/tidb-in-action
+	url = https://github.com/tidb-incubator/tidb-in-action.git
+	branch = master

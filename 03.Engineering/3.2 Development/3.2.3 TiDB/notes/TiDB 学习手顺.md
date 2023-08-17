@@ -27,6 +27,21 @@ tags: TiDB 学习手顺
 - 实时HTAP场景
 - 数据汇聚、二次加工处理的场景
 
+
+
+![[Pasted image 20230816131652.png]]
+
+![[Pasted image 20230816133327.png]]
+
+
+WAL, sync_log=true, write_buffer_size
+write_stall：rocksDB限速
+compaction
+
+![[Pasted image 20230816154241.png]]
+
+
+
 # 引用
 ---
 
