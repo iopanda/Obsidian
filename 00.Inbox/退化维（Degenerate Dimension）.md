@@ -1,7 +1,7 @@
 ---
 aliases: 退化维（Degenerate Dimension）
 created_at: 2023-08-17 17:00
-tags: unknow
+tags: DA
 ---
 
 # 概念

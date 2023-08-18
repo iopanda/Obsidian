@@ -1,7 +1,7 @@
 ---
 aliases: 快速变化维（Rapidly Changing Dimension）
 created_at: 2023-08-17 16:58
-tags: unknow
+tags: DA
 ---
 
 # 概念
